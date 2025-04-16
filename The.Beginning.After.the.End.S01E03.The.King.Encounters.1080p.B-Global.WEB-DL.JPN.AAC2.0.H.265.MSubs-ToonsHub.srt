@@ -1,0 +1,296 @@
+[Script Info]
+Title: Subtitles by ToonsHub
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans,72,&H00FFFFFF,&H000000FF,&H00002208,&H80000000,-1,0,0,0,100,100,0,0,1,5,1.5,2,0,0,65,1
+Style: Default Above,Noto Sans,72,&H00FFFFFF,&H000000FF,&H00002208,&H80000000,-1,0,0,0,100,100,0,0,1,5,1.5,8,0,0,65,1
+Style: 5-normal,Noto Sans,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,5,10,10,10,1
+Style: 6-normal,Noto Sans,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,6,10,10,10,1
+Style: 4-normal,Noto Sans,52,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,4,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:56.13,0:02:02.43,5-normal,,0,0,0,,{\fad(800,900)\fs80\bord3\blur0\3c&HFFFFFF&\c&H000000&\pos(1532,876)\b1}#3  {\c&H138BC6&}Le Roi, {\c&H0C070F&}Rencontre
+Dialogue: 0,0:00:01.99,0:00:04.36,Default,,0,0,0,,J'ai trouvé quelque chose de joli.
+Dialogue: 0,0:00:04.84,0:00:06.86,Default,,0,0,0,,Je suppose qu'il n'apparaîtra pas une seconde fois.
+Dialogue: 0,0:00:06.86,0:00:07.86,Default,,0,0,0,,Je vois.
+Dialogue: 0,0:00:07.86,0:00:10.22,Default,,0,0,0,,C'était si joli.
+Dialogue: 0,0:00:10.87,0:00:12.86,Default,,0,0,0,,De mauvaises choses vont arriver.
+Dialogue: 0,0:00:13.47,0:00:15.25,Default,,0,0,0,,Si cela continue...
+Dialogue: 0,0:02:03.56,0:02:04.48,Default,,0,0,0,,Non...
+Dialogue: 0,0:02:05.23,0:02:07.49,Default,,0,0,0,,La question la plus urgente maintenant...
+Dialogue: 0,0:02:11.52,0:02:12.99,Default,,0,0,0,,Ça m'attire?!
+Dialogue: 0,0:02:21.23,0:02:24.39,Default,,0,0,0,,Tu as encore un long chemin à parcourir, petit Arthur.
+Dialogue: 0,0:02:24.39,0:02:25.68,Default,,0,0,0,,Quoi...
+Dialogue: 0,0:02:25.68,0:02:27.63,Default,,0,0,0,,Je suis ton allié.
+Dialogue: 0,0:02:28.97,0:02:32.80,Default,,0,0,0,,Euh... Allié ?
+Dialogue: 0,0:02:37.02,0:02:38.93,Default,,0,0,0,,H-Hé...
+Dialogue: 0,0:02:42.80,0:02:44.58,Default,,0,0,0,,Tu dois avoir faim, non ?
+Dialogue: 0,0:02:45.51,0:02:49.19,Default,,0,0,0,,Même si tu n'as pas faim,\ntu ferais mieux de manger quelque chose.
+Dialogue: 0,0:02:49.91,0:02:52.94,Default,,0,0,0,,Je suppose que tu veux\npouvoir bouger à nouveau bientôt, non ?
+Dialogue: 0,0:02:52.94,0:02:54.53,Default,,0,0,0,,Vas-tu écouter...
+Dialogue: 0,0:02:54.53,0:02:54.95,Default,,0,0,0,,Beurk...
+Dialogue: 0,0:02:57.22,0:02:59.08,Default,,0,0,0,,Il vaudrait mieux que tu ne bouges pas.
+Dialogue: 0,0:02:59.08,0:03:02.58,Default,,0,0,0,,Tu devrais au moins être reconnaissant\Nd'être encore en vie.
+Dialogue: 0,0:03:05.26,0:03:07.08,Default,,0,0,0,,Euh...
+Dialogue: 0,0:03:07.08,0:03:10.27,Default,,0,0,0,,Si tu ne manges pas, alors je ne répondrai pas\Nà tes questions.
+Dialogue: 0,0:03:17.59,0:03:19.22,Default,,0,0,0,,Assure-toi de bien mâcher.
+Dialogue: 0,0:03:23.23,0:03:24.98,Default,,0,0,0,,Bien mâché.
+Dialogue: 0,0:03:25.30,0:03:29.65,Default,,0,0,0,,Comment vont mon papa\net ma maman ?
+Dialogue: 0,0:03:30.41,0:03:31.98,Default,,0,0,0,,Sais-tu quelque chose ?
+Dialogue: 0,0:03:33.02,0:03:35.74,Default,,0,0,0,,Je ne peux pas quitter cet endroit.
+Dialogue: 0,0:03:38.57,0:03:39.83,Default,,0,0,0,,Cependant...
+Dialogue: 0,0:03:40.80,0:03:43.49,Default,,0,0,0,,Je peux voir un peu plus loin au-delà d'ici,
+Dialogue: 0,0:03:43.49,0:03:46.98,Default,,0,0,0,,et m'aventurer un peu plus loin.
+Dialogue: 0,0:03:48.41,0:03:51.14,Default,,0,0,0,,Ta famille est en sécurité.
+Dialogue: 0,0:03:51.14,0:03:53.75,Default,,0,0,0,,Ils sont déjà partis\ndepuis quelques jours.
+Dialogue: 0,0:03:54.07,0:03:54.79,Default,,0,0,0,,Alors...
+Dialogue: 0,0:03:56.43,0:03:57.38,Default,,0,0,0,,Ils sont en sécurité...
+Dialogue: 0,0:04:00.32,0:04:02.76,Default,,0,0,0,,Ils sont tous en sécurité...
+Dialogue: 0,0:04:09.67,0:04:11.05,Default,,0,0,0,,Je suis tellement heureux...
+Dialogue: 0,0:04:11.81,0:04:13.12,Default,,0,0,0,,Je suis content qu'ils aillent bien...
+Dialogue: 0,0:04:13.12,0:04:14.10,Default,,0,0,0,,Oui...
+Dialogue: 0,0:04:14.58,0:04:16.53,Default,,0,0,0,,C'est vraiment le cas...
+Dialogue: 0,0:04:16.97,0:04:20.35,Default,,0,0,0,,Euh, merci !
+Dialogue: 0,0:04:20.35,0:04:21.88,Default,,0,0,0,,Euh...
+Dialogue: 0,0:04:21.88,0:04:24.29,Default,,0,0,0,,C'est Sylvia, Arthur.
+Dialogue: 0,0:04:24.60,0:04:26.79,Default,,0,0,0,,Merci...
+Dialogue: 0,0:04:27.40,0:04:28.79,Default,,0,0,0,,Sylvia!
+Dialogue: 0,0:04:33.47,0:04:35.62,Default,,0,0,0,,Que penses-tu que je devrais faire ?
+Dialogue: 0,0:04:36.01,0:04:38.15,Default,,0,0,0,,La réponse est là.
+Dialogue: 0,0:04:38.56,0:04:39.52,Default,,0,0,0,,N'est-ce pas ?
+Dialogue: 0,0:04:40.07,0:04:42.30,Default,,0,0,0,,Fini de cacher des secrets.
+Dialogue: 0,0:04:43.01,0:04:44.10,Default,,0,0,0,,Après tout...
+Dialogue: 0,0:04:47.53,0:04:49.06,Default,,0,0,0,,Voilà pourquoi.
+Dialogue: 0,0:04:51.25,0:04:54.42,Default,,0,0,0,,Cela fait quelques jours\ndepuis que Sylvia m'a sauvé.
+Dialogue: 0,0:04:56.33,0:05:00.41,Default,,0,0,0,,Mes blessures se sont guéries,\nEt je voulais rentrer chez moi bientôt, mais...
+Dialogue: 0,0:05:01.07,0:05:03.49,Default,,0,0,0,,Cela n'arrivera pas maintenant.
+Dialogue: 0,0:05:05.82,0:05:07.46,Default,,0,0,0,,Selon Sylvia,
+Dialogue: 0,0:05:07.92,0:05:10.58,Default,,0,0,0,,nous sommes aux abords de la forêt d'Elshire,
+Dialogue: 0,0:05:11.25,0:05:12.88,Default,,0,0,0,,le territoire des animaux sauvages,
+Dialogue: 0,0:05:12.88,0:05:15.16,Default,,0,0,0,,et des hors-la-loi.
+Dialogue: 0,0:05:16.49,0:05:20.71,Default,,0,0,0,,Cependant, Sylvia avait préparé\nun moyen pour que je puisse partir.
+Dialogue: 0,0:05:21.14,0:05:23.59,Default,,0,0,0,,Je comprends que tu veuilles\nrentrer chez toi dès maintenant,
+Dialogue: 0,0:05:23.99,0:05:28.98,Default,,0,0,0,,mais il faut quelques préparatifs\npour ouvrir une déchirure dimensionnelle.
+Dialogue: 0,0:05:29.29,0:05:30.06,Default,,0,0,0,,D'accord.
+Dialogue: 0,0:05:37.50,0:05:40.55,Default,,0,0,0,,Bouger ton corps est bénéfique.
+Dialogue: 0,0:05:41.00,0:05:43.85,Default,,0,0,0,,Les enfants doivent être en bonne santé à tout moment.
+Dialogue: 0,0:05:43.85,0:05:46.87,Default,,0,0,0,,Sylvia ne m'a jamais parlé d'elle-même.
+Dialogue: 0,0:05:47.79,0:05:49.53,Default,,0,0,0,,Un monstre hideux...
+Dialogue: 0,0:05:49.53,0:05:53.17,Default,,0,0,0,,Le petit Arthur n'arrêtait pas de crier\nen voyant son apparence.
+Dialogue: 0,0:05:53.68,0:05:55.17,Default,,0,0,0,,Se battait-elle contre quelque chose ?
+Dialogue: 0,0:05:55.73,0:05:58.17,Default,,0,0,0,,Elle ne m'en a jamais parlé.
+Dialogue: 0,0:05:58.17,0:06:01.56,Default,,0,0,0,,Cependant, malgré son air menaçant,
+Dialogue: 0,0:06:01.56,0:06:04.18,Default,,0,0,0,,elle était vraiment une personne chaleureuse.
+Dialogue: 0,0:06:27.62,0:06:30.96,Default,,0,0,0,,Tu as déjà un Noyau de Mana à cet âge...
+Dialogue: 0,0:06:31.70,0:06:34.21,Default,,0,0,0,,Alors, je suppose que tu peux faire ça ?
+Dialogue: 0,0:06:34.59,0:06:35.21,Default,,0,0,0,,Hein ?
+Dialogue: 0,0:06:39.67,0:06:42.37,Default,,0,0,0,,Sais-tu ce que je fais ?
+Dialogue: 0,0:06:42.37,0:06:47.04,Default,,0,0,0,,Ouais... Tu collectes du mana\nen utilisant la magie.
+Dialogue: 0,0:06:47.53,0:06:51.22,Default,,0,0,0,,C'est comme un avion\nen train d'être ravitaillé en plein vol.
+Dialogue: 0,0:06:51.60,0:06:53.54,Default,,0,0,0,,Pouvait-elle faire ça ?
+Dialogue: 0,0:06:54.35,0:06:57.83,Default,,0,0,0,,Les gens ont une conception fixe du mana.
+Dialogue: 0,0:06:58.24,0:07:00.39,Default,,0,0,0,,Ils pensent donc séparément...
+Dialogue: 0,0:07:00.39,0:07:03.26,Default,,0,0,0,,...sur le moment de collecter le mana\net le moment de l'utiliser.
+Dialogue: 0,0:07:04.08,0:07:06.86,Default,,0,0,0,,Les créatures non humaines\nle font naturellement.
+Dialogue: 0,0:07:06.86,0:07:11.31,Default,,0,0,0,,En particulier les monstres\nappelés Bêtes de Mana,
+Dialogue: 0,0:07:11.31,0:07:13.25,Default,,0,0,0,,c'est quelque chose de naturel, comme respirer.
+Dialogue: 0,0:07:13.79,0:07:15.75,Default,,0,0,0,,Aimerais-tu posséder cette capacité ?
+Dialogue: 0,0:07:16.04,0:07:17.81,Default,,0,0,0,,Oui!
+Dialogue: 0,0:07:17.81,0:07:19.44,Default,,0,0,0,,Voici une question alors.
+Dialogue: 0,0:07:19.89,0:07:22.73,Default,,0,0,0,,Que veux-tu faire\nsi tu possèdes cette capacité ?
+Dialogue: 0,0:07:22.73,0:07:23.76,Default,,0,0,0,,Quoi ?
+Dialogue: 0,0:07:23.76,0:07:28.43,Default,,0,0,0,,Si tu peux faire cela,\ntu deviendras encore plus fort.
+Dialogue: 0,0:07:28.43,0:07:30.51,Default,,0,0,0,,Que feras-tu de ce pouvoir ?
+Dialogue: 0,0:07:33.83,0:07:36.11,Default,,0,0,0,,J'acquerrai un pouvoir supérieur...
+Dialogue: 0,0:07:37.12,0:07:39.56,Default,,0,0,0,,Une fois que j'aurai ce pouvoir...
+Dialogue: 0,0:07:45.69,0:07:48.97,Default,,0,0,0,,J'apporterai la mort à ceux\nqui oseront m'enlever...
+Dialogue: 0,0:07:48.97,0:07:50.07,Default,,0,0,0,,...ceux qui me sont précieux.
+Dialogue: 0,0:07:54.20,0:07:56.33,Default,,0,0,0,,C'était pour quoi ?!
+Dialogue: 0,0:07:56.74,0:07:57.97,Default,,0,0,0,,Tu échoues.
+Dialogue: 0,0:07:57.97,0:07:59.01,Default,,0,0,0,,Hein ?!
+Dialogue: 0,0:07:59.01,0:08:02.84,Default,,0,0,0,,Je ne parle pas à quelqu'un\navec une telle expression.
+Dialogue: 0,0:08:02.84,0:08:06.64,Default,,0,0,0,,Mais pourquoi ?! C'est tout naturel\nde vaincre ses ennemis!
+Dialogue: 0,0:08:06.64,0:08:07.84,Default,,0,0,0,,En effet.
+Dialogue: 0,0:08:08.13,0:08:11.60,Default,,0,0,0,,C'est ainsi que je suis devenu le roi le plus puissant...
+Dialogue: 0,0:08:11.92,0:08:16.35,Default,,0,0,0,,Tu ne cesses de remplir tes pensées\nde tuer des gens...
+Dialogue: 0,0:08:16.72,0:08:17.96,Default,,0,0,0,,Est-ce que c'est vraiment amusant?
+Dialogue: 0,0:08:17.96,0:08:18.85,Default,,0,0,0,,Hein?
+Dialogue: 0,0:08:18.85,0:08:21.86,Default,,0,0,0,,Peut-être t'ai-je frappé trop fort?
+Dialogue: 0,0:08:22.38,0:08:24.95,Default,,0,0,0,,As-tu mal, Arthur?
+Dialogue: 0,0:08:25.72,0:08:27.86,Default,,0,0,0,,Non, ça va.
+Dialogue: 0,0:08:30.18,0:08:34.15,Default,,0,0,0,,Ma main pourrait facilement te déchirer en morceaux.
+Dialogue: 0,0:08:35.06,0:08:38.50,Default,,0,0,0,,Mais elle peut aussi te toucher doucement.
+Dialogue: 0,0:08:42.22,0:08:43.86,Default,,0,0,0,,Lequel préfères-tu ?
+Dialogue: 0,0:08:44.46,0:08:46.01,Default,,0,0,0,,Le côté doux...
+Dialogue: 0,0:08:46.42,0:08:47.76,Default,,0,0,0,,Moi aussi.
+Dialogue: 0,0:08:48.42,0:08:51.50,Default,,0,0,0,,La colère et la haine brûlent facilement.
+Dialogue: 0,0:08:51.90,0:08:54.85,Default,,0,0,0,,Elles se manifesteront par la violence.
+Dialogue: 0,0:08:55.64,0:08:58.19,Default,,0,0,0,,Ce doit être le meilleur sentiment alors.
+Dialogue: 0,0:08:58.19,0:08:59.27,Default,,0,0,0,,Mais...
+Dialogue: 0,0:08:59.27,0:09:01.52,Default,,0,0,0,,Il ne restera que de la haine.
+Dialogue: 0,0:09:04.27,0:09:09.79,Default,,0,0,0,,Je ne veux pas que tu utilises\nla vie que j'ai sauvée de cette façon.
+Dialogue: 0,0:09:09.79,0:09:11.50,Default,,0,0,0,,Sylvia...
+Dialogue: 0,0:09:11.50,0:09:12.28,Default,,0,0,0,,Un instant...
+Dialogue: 0,0:09:13.07,0:09:16.99,Default,,0,0,0,,J'étais convaincu qu'elle disait tout cela\nparce qu'elle savait tout de moi.
+Dialogue: 0,0:09:17.78,0:09:20.54,Default,,0,0,0,,Mais cela ne devrait pas être le cas...
+Dialogue: 0,0:09:20.54,0:09:23.29,Default,,0,0,0,,Très bien, passons à une autre question.
+Dialogue: 0,0:09:23.29,0:09:27.04,Default,,0,0,0,,Arthur, si tu deviens plus fort\nque tu ne l'es actuellement,
+Dialogue: 0,0:09:27.04,0:09:29.05,Default,,0,0,0,,à quoi utiliseras-tu ce pouvoir ?
+Dialogue: 0,0:09:46.97,0:09:48.88,Default,,0,0,0,,Je veux protéger ceux qui me sont chers.
+Dialogue: 0,0:09:50.01,0:09:52.09,Default,,0,0,0,,Un score parfait.
+Dialogue: 0,0:10:00.07,0:10:01.70,Default,,0,0,0,,Si proche...
+Dialogue: 0,0:10:01.70,0:10:04.83,Default,,0,0,0,,Tu ne m'échapperas pas,\npeu importe où tu te caches...
+Dialogue: 0,0:10:05.19,0:10:06.75,Default,,0,0,0,,Sylvia.
+Dialogue: 0,0:10:34.91,0:10:37.37,Default,,0,0,0,,Une agréable matinée à vous, Milord!
+Dialogue: 0,0:10:43.06,0:10:44.62,Default,,0,0,0,,Oh là là!
+Dialogue: 0,0:10:44.94,0:10:48.77,Default,,0,0,0,,Bienvenue dans notre modeste bureau, mon Roi!
+Dialogue: 0,0:10:50.14,0:10:52.13,Default,,0,0,0,,J'étais roi qu'en nom.
+Dialogue: 0,0:10:52.83,0:10:55.46,Default,,0,0,0,,C'est le Parlement qui détient\nle véritable pouvoir du pays.
+Dialogue: 0,0:10:56.05,0:11:01.08,Default,,0,0,0,,Dans ce monde aux ressources épuisées\net aux taux de natalité en baisse,
+Dialogue: 0,0:11:01.77,0:11:05.56,Default,,0,0,0,,le rôle du roi est celui d'un agent de guerre.
+Dialogue: 0,0:11:06.39,0:11:08.72,Default,,0,0,0,,Un simple instrument de violence.
+Dialogue: 0,0:11:09.21,0:11:10.40,Default,,0,0,0,,Roi Grey,
+Dialogue: 0,0:11:10.76,0:11:13.49,Default,,0,0,0,,tu es un être formidable.
+Dialogue: 0,0:11:13.49,0:11:15.97,Default,,0,0,0,,Tu as gagné de nombreuses batailles,
+Dialogue: 0,0:11:15.97,0:11:19.77,Default,,0,0,0,,apportant richesse et honneur à notre pays.
+Dialogue: 0,0:11:22.69,0:11:26.67,Default,,0,0,0,,Au fait,\npourquoi es-tu ici, si je peux me permettre ?
+Dialogue: 0,0:11:27.92,0:11:31.42,Default,,0,0,0,,Je vais partir maintenant, Marlone.
+Dialogue: 0,0:11:40.86,0:11:42.93,Default,,0,0,0,,En utilisant la magie au fur et à mesure que tu la recueilles.
+Dialogue: 0,0:11:42.93,0:11:46.31,Default,,0,0,0,,Si tu peux le faire, Arthur,
+Dialogue: 0,0:11:46.31,0:11:49.84,Default,,0,0,0,,ta magie s'étendra considérablement.
+Dialogue: 0,0:11:53.09,0:11:54.39,Default,,0,0,0,,Ne te précipite pas.
+Dialogue: 0,0:11:54.81,0:11:56.32,Default,,0,0,0,,Maîtrise ta magie.
+Dialogue: 0,0:12:00.71,0:12:03.45,Default,,0,0,0,,Beaucoup n'ont pas eu cette chance.
+Dialogue: 0,0:12:03.80,0:12:06.54,Default,,0,0,0,,Pour que je continue à gagner,
+Dialogue: 0,0:12:06.54,0:12:08.50,Default,,0,0,0,,ce que je voulais par-dessus tout, c'était...
+Dialogue: 0,0:12:17.54,0:12:19.28,Default,,0,0,0,,...maîtriser le Ki.
+Dialogue: 0,0:12:36.67,0:12:37.57,Default,,0,0,0,,C'est ça!
+Dialogue: 0,0:12:37.98,0:12:39.07,Default,,0,0,0,,Bien joué.
+Dialogue: 0,0:12:42.51,0:12:43.33,Default,,0,0,0,,Arthur...
+Dialogue: 0,0:12:49.61,0:12:51.44,Default,,0,0,0,,Que se passe-t-il ?
+Dialogue: 0,0:12:51.44,0:12:53.48,Default,,0,0,0,,Ne fais pas de bruit.
+Dialogue: 0,0:13:01.77,0:13:03.26,Default,,0,0,0,,Qui est-ce ?
+Dialogue: 0,0:13:04.13,0:13:06.45,Default,,0,0,0,,On dirait bien Sylvia.
+Dialogue: 0,0:13:07.43,0:13:09.79,Default,,0,0,0,,Je suis surpris que tu aies trouvé cet endroit.
+Dialogue: 0,0:13:09.79,0:13:13.52,Default,,0,0,0,,L'odeur du sang m'a conduit ici.
+Dialogue: 0,0:13:13.93,0:13:16.53,Default,,0,0,0,,Viens avec moi.
+Dialogue: 0,0:13:17.02,0:13:18.53,Default,,0,0,0,,Non, merci.
+Dialogue: 0,0:13:18.89,0:13:22.08,Default,,0,0,0,,Je préférerais régler cela\nsans violence inutile,
+Dialogue: 0,0:13:22.08,0:13:24.03,Default,,0,0,0,,mais tu ne me laisses pas le choix!
+Dialogue: 0,0:13:26.54,0:13:27.79,Default,,0,0,0,,Beurk!
+Dialogue: 0,0:13:29.54,0:13:32.03,Default,,0,0,0,,Ne t'inquiète de rien.
+Dialogue: 0,0:13:32.48,0:13:33.81,Default,,0,0,0,,Sylvia...
+Dialogue: 0,0:13:35.18,0:13:38.84,Default,,0,0,0,,Tente pas ta chance,\net la mort te viendra plus tôt.
+Dialogue: 0,0:13:39.90,0:13:42.80,Default,,0,0,0,,C'est à moi de te le dire!
+Dialogue: 0,0:13:48.81,0:13:50.14,Default,,0,0,0,,Sylvia!
+Dialogue: 0,0:14:03.19,0:14:04.41,Default,,0,0,0,,Sylvia...
+Dialogue: 0,0:14:04.77,0:14:05.66,Default,,0,0,0,,Quoi?!
+Dialogue: 0,0:14:14.12,0:14:19.05,Default,,0,0,0,,Imbécile ! Si tu utilises ce pouvoir,\ntu ne survivras pas !
+Dialogue: 0,0:14:19.44,0:14:21.05,Default,,0,0,0,,Ça m'est égal.
+Dialogue: 0,0:14:21.05,0:14:23.90,Default,,0,0,0,,J'ai vécu une vie heureuse.
+Dialogue: 0,0:14:23.90,0:14:25.80,Default,,0,0,0,,Cependant, elle va me manquer.
+Dialogue: 0,0:14:50.96,0:14:53.14,Default,,0,0,0,,Je suis par ici!
+Dialogue: 0,0:14:55.29,0:14:56.54,Default,,0,0,0,,Oh, non!
+Dialogue: 0,0:15:10.09,0:15:11.31,Default,,0,0,0,,Quoi?
+Dialogue: 0,0:15:11.31,0:15:13.04,Default,,0,0,0,,Viens, Arthur.
+Dialogue: 0,0:15:20.54,0:15:21.91,Default,,0,0,0,,C'est...
+Dialogue: 0,0:15:21.91,0:15:23.87,Default,,0,0,0,,Mon pouvoir.
+Dialogue: 0,0:15:24.31,0:15:26.78,Default,,0,0,0,,Laisse tomber,\nqu'en penses-tu ?
+Dialogue: 0,0:15:27.40,0:15:30.03,Default,,0,0,0,,Me vois-tu plus comme Sylvia maintenant ?
+Dialogue: 0,0:15:30.39,0:15:31.39,Default,,0,0,0,,Oui.
+Dialogue: 0,0:15:31.85,0:15:33.58,Default,,0,0,0,,Alors tu es un dragon.
+Dialogue: 0,0:15:33.58,0:15:35.68,Default,,0,0,0,,C'est comme ça que les gens m'appellent.
+Dialogue: 0,0:15:35.68,0:15:36.54,Default,,0,0,0,,Maintenant.
+Dialogue: 0,0:15:37.15,0:15:38.57,Default,,0,0,0,,Nous devons nous dépêcher.
+Dialogue: 0,0:15:44.08,0:15:45.30,Default,,0,0,0,,Désolé.
+Dialogue: 0,0:15:45.30,0:15:48.69,Default,,0,0,0,,On dirait que c'est connecté à un endroit reculé.
+Dialogue: 0,0:15:48.69,0:15:51.20,Default,,0,0,0,,Mais, tu vas t'en sortir, n'est-ce pas ?
+Dialogue: 0,0:15:51.20,0:15:54.06,Default,,0,0,0,,Je t'ai appris l'art de survivre.
+Dialogue: 0,0:15:56.22,0:15:57.94,Default,,0,0,0,,Petit Arthur.
+Dialogue: 0,0:15:57.94,0:16:00.44,Default,,0,0,0,,Que feras-tu de ce pouvoir ?
+Dialogue: 0,0:16:06.01,0:16:07.95,Default,,0,0,0,,Je veux protéger ceux qui me sont chers.
+Dialogue: 0,0:16:08.50,0:16:09.82,Default,,0,0,0,,Promets-moi.
+Dialogue: 0,0:16:14.11,0:16:14.96,Default,,0,0,0,,Mais...
+Dialogue: 0,0:16:14.96,0:16:16.04,Default,,0,0,0,,Arthur.
+Dialogue: 0,0:16:17.40,0:16:20.09,Default,,0,0,0,,J'ai quelques choses à te donner.
+Dialogue: 0,0:16:24.20,0:16:28.28,Default,,0,0,0,,Enveloppe-le dans cette plume et chéris-le bien.
+Dialogue: 0,0:16:28.82,0:16:30.52,Default,,0,0,0,,Et une autre chose...
+Dialogue: 0,0:16:40.91,0:16:42.11,Default,,0,0,0,,Est-ce...
+Dialogue: 0,0:16:42.58,0:16:45.23,Default,,0,0,0,,Un jour, tu sauras.
+Dialogue: 0,0:16:46.30,0:16:47.72,Default,,0,0,0,,C'est ça.
+Dialogue: 0,0:16:48.63,0:16:50.75,Default,,0,0,0,,Il est temps de dire adieu.
+Dialogue: 0,0:16:50.75,0:16:52.05,Default,,0,0,0,,Déjà ?
+Dialogue: 0,0:16:52.05,0:16:53.97,Default,,0,0,0,,Pourtant, je suis réticent à le faire...
+Dialogue: 0,0:16:55.32,0:16:58.78,Default,,0,0,0,,Je pourrais en fait te renvoyer\nchez toi immédiatement.
+Dialogue: 0,0:16:58.78,0:17:01.68,Default,,0,0,0,,Mais je n'en avais pas envie.
+Dialogue: 0,0:17:02.64,0:17:03.99,Default,,0,0,0,,Pourquoi ?
+Dialogue: 0,0:17:03.99,0:17:07.13,Default,,0,0,0,,Je m'amusais à vivre avec toi.
+Dialogue: 0,0:17:07.13,0:17:09.15,Default,,0,0,0,,C'est pour cela, Arthur.
+Dialogue: 0,0:17:09.15,0:17:11.02,Default,,0,0,0,,Sylvia...
+Dialogue: 0,0:17:11.68,0:17:13.37,Default,,0,0,0,,Je ne peux pas te protéger...
+Dialogue: 0,0:17:13.97,0:17:15.44,Default,,0,0,0,,Pas avec mon pouvoir.
+Dialogue: 0,0:17:18.14,0:17:21.06,Default,,0,0,0,,Même après que tu m'aies appris...
+Dialogue: 0,0:17:22.04,0:17:23.90,Default,,0,0,0,,Nous avons aussi fait une promesse...
+Dialogue: 0,0:17:24.46,0:17:27.34,Default,,0,0,0,,C'est l'ordre naturel des choses.
+Dialogue: 0,0:17:27.34,0:17:29.90,Default,,0,0,0,,Tu n'as pas à promettre\nquoi que ce soit à ce sujet.
+Dialogue: 0,0:17:30.95,0:17:35.19,Default,,0,0,0,,Les mots sont sortis\nde manière incroyablement naturelle.
+Dialogue: 0,0:17:36.20,0:17:39.20,Default,,0,0,0,,Peut-être que la gratitude envers elle\na fait que je l'ai fait.
+Dialogue: 0,0:17:40.14,0:17:41.64,Default,,0,0,0,,Les jours que j'ai passés ici...
+Dialogue: 0,0:17:42.04,0:17:43.81,Default,,0,0,0,,...m'avaient changé.
+Dialogue: 0,0:17:45.20,0:17:46.18,Default,,0,0,0,,Ou plutôt...
+Dialogue: 0,0:17:48.17,0:17:52.31,Default,,0,0,0,,Je me fiche que tu sois un dragon,\nun monstre, ou autre chose.
+Dialogue: 0,0:17:52.84,0:17:55.64,Default,,0,0,0,,Tu es ma famille précieuse!
+Dialogue: 0,0:17:55.64,0:17:58.12,Default,,0,0,0,,Mais tu as déjà une mère.
+Dialogue: 0,0:17:58.12,0:18:00.56,Default,,0,0,0,,Alors, tu es ma grand-mère...
+Dialogue: 0,0:18:05.42,0:18:06.57,Default,,0,0,0,,Sylvia?
+Dialogue: 0,0:18:06.90,0:18:08.47,Default,,0,0,0,,Ce n'est rien.
+Dialogue: 0,0:18:08.87,0:18:11.57,Default,,0,0,0,,Hé, pourrais-tu me dire ça encore une fois ?
+Dialogue: 0,0:18:12.03,0:18:12.69,Default,,0,0,0,,Ouais.
+Dialogue: 0,0:18:13.19,0:18:14.07,Default,,0,0,0,,Grand-mère.
+Dialogue: 0,0:18:18.11,0:18:19.65,Default,,0,0,0,,Merci...
+Dialogue: 0,0:18:20.27,0:18:21.83,Default,,0,0,0,,Petit.
+Dialogue: 0,0:18:39.60,0:18:43.85,Default,,0,0,0,,Je ne peux pas te quitter !\nAllons-y ensemble !
+Dialogue: 0,0:18:43.85,0:18:46.86,Default,,0,0,0,,Sylvia!
+Dialogue: 0,0:19:07.13,0:19:10.42,Default,,0,0,0,,Tu t'es enfin calmé, hein ?
+Dialogue: 0,0:19:12.52,0:19:16.00,Default,,0,0,0,,Es-tu vraiment mort à cause de cela ?
+Dialogue: 0,0:19:16.00,0:19:19.35,Default,,0,0,0,,Quelqu'un de ta trempe ?
+Dialogue: 0,0:19:19.71,0:19:21.60,Default,,0,0,0,,Alors, tu me connais bien.
+Dialogue: 0,0:19:39.04,0:19:40.55,Default,,0,0,0,,C'est bien ?
+Dialogue: 0,0:19:40.55,0:19:43.19,Default,,0,0,0,,Ça suffit. Merci.
+Dialogue: 0,0:19:43.68,0:19:45.57,Default,,0,0,0,,Je te laisse le reste.
+Dialogue: 0,0:19:45.57,0:19:49.13,Default,,0,0,0,,Oui. Je m'occuperai du reste.
+Dialogue: 0,0:19:52.07,0:19:53.19,Default,,0,0,0,,Arthur.
+Dialogue: 0,0:19:53.63,0:19:56.71,Default,,0,0,0,,Tu te souviens de ce que je t'ai dit ?
+Dialogue: 0,0:19:56.71,0:19:57.13,Default,,0,0,0,,Oui.
+Dialogue: 0,0:19:57.75,0:19:59.42,Default,,0,0,0,,Je m'en souviens.
+Dialogue: 0,0:19:59.42,0:20:01.25,Default,,0,0,0,,Alors, tu iras bien.
+Dialogue: 0,0:20:01.25,0:20:04.55,Default,,0,0,0,,Mais c'est quand même triste...
+Dialogue: 0,0:20:04.55,0:20:05.85,Default,,0,0,0,,Je te comprends.
+Dialogue: 0,0:20:06.43,0:20:08.98,Default,,0,0,0,,Le monde est rempli de tristesse.
+Dialogue: 0,0:20:09.59,0:20:13.40,Default,,0,0,0,,C'est pourquoi nous devons le changer\navec un sourire.
+Dialogue: 0,0:20:13.40,0:20:15.60,Default,,0,0,0,,Mais je ne peux pas faire ça !
+Dialogue: 0,0:20:15.60,0:20:17.50,Default,,0,0,0,,Tu n'as pas besoin\nde pouvoir le faire maintenant.
+Dialogue: 0,0:20:18.27,0:20:21.83,Default,,0,0,0,,Prends simplement les choses étape par étape,\nune à la fois...
+Dialogue: 0,0:20:21.83,0:20:24.03,Default,,0,0,0,,C'est mon souhait.
+Dialogue: 0,0:20:25.55,0:20:28.05,Default,,0,0,0,,Je suis sûr que tu peux y arriver.
+Dialogue: 0,0:20:28.05,0:20:30.45,Default,,0,0,0,,Parce qu'autrefois, tu étais\nle roi le plus puissant.
+Dialogue: 0,0:20:30.45,0:20:32.42,Default,,0,0,0,,Sylvia?
+Dialogue: 0,0:20:33.01,0:20:37.82,Default,,0,0,0,,Ne remplis pas ton cœur de colère et de haine.
+Dialogue: 0,0:20:38.23,0:20:41.78,Default,,0,0,0,,Que ta nouvelle vie soit remplie...
+Dialogue: 0,0:20:41.78,0:20:44.43,Default,,0,0,0,,...des bénédictions de la lumière, Roi Grey...
+Dialogue: 0,0:20:46.13,0:20:47.29,Default,,0,0,0,,Sylvia...
+Dialogue: 0,0:20:49.36,0:20:50.56,Default,,0,0,0,,Je n'arrive pas à croire...
+Dialogue: 0,0:20:51.64,0:20:52.67,Default,,0,0,0,,...que tu savais...
+Dialogue: 0,0:21:03.98,0:21:04.95,Default,,0,0,0,,Je comprends...
+Dialogue: 0,0:21:06.34,0:21:07.40,Default,,0,0,0,,Sylvia.
+Dialogue: 0,0:01:57.47,0:01:58.99,Default Above,,0,0,0,,Qu'est-ce que c'est ?
+Dialogue: 0,0:02:00.58,0:02:02.62,Default Above,,0,0,0,,Pourquoi suis-je ici?
+
