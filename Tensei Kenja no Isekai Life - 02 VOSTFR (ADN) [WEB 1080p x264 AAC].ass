@@ -1,0 +1,340 @@
+[Script Info]
+Title: Français (France)
+Original Script: AnimeDigitalNetwork [https://animedigitalnetwork.fr/]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: TR_TOP,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,8,6,6,75,1
+Style: TR_LEFT_TOP,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,7,75,6,75,1
+Style: TR_ALT_TOP,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,8,6,6,75,1
+Style: TR_RIGHT_TOP,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,9,6,75,75,1
+Style: TR_DEFAULT,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,6,6,75,1
+Style: TR_LEFT_END,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,1,75,6,75,1
+Style: TR_RIGHT_END,Trebuchet MS,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,3,6,75,75,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:09.00,00:00:10.76,TR_DEFAULT,,0,0,0,,C'est bon pour les affaires.
+Dialogue: 0,00:00:11.80,00:00:15.34,TR_DEFAULT,,0,0,0,,Vise des aventuriers\Nque nul n'ira chercher, compris ?
+Dialogue: 0,00:00:16.21,00:00:18.64,TR_DEFAULT,,0,0,0,,Et boucle ça avant la nouvelle lune.
+Dialogue: 0,00:00:21.81,00:00:24.52,TR_TOP,,0,0,0,,KIRYA
+Dialogue: 0,00:00:24.69,00:00:25.65,TR_TOP,,0,0,0,,Yûji !
+Dialogue: 0,00:00:25.90,00:00:27.65,TR_DEFAULT,,0,0,0,,Cette ville est géante !
+Dialogue: 0,00:00:27.81,00:00:28.57,TR_DEFAULT,,0,0,0,,{\i1}En effet.{\i0}
+Dialogue: 0,00:00:28.73,00:00:31.78,TR_DEFAULT,,0,0,0,,- Y a de quoi manger ?\N- Moi, j'veux de la viande !
+Dialogue: 0,00:00:32.24,00:00:35.53,TR_DEFAULT,,0,0,0,,Vous adorez vraiment la viande,\Ndites donc.
+Dialogue: 0,00:00:36.07,00:00:38.53,TR_DEFAULT,,0,0,0,,Je peux en manger\Njusqu'à tripler de taille.
+Dialogue: 0,00:00:39.03,00:00:42.33,TR_DEFAULT,,0,0,0,,{\i1}C'est vrai qu'on a rien avalé\Npendant le trajet.{\i0}
+Dialogue: 0,00:00:43.46,00:00:44.04,TR_DEFAULT,,0,0,0,,{\i1}En revanche...{\i0}
+Dialogue: 0,00:00:45.62,00:00:47.17,TR_DEFAULT,,0,0,0,,On attire trop l'attention.
+Dialogue: 0,00:00:49.00,00:00:50.96,TR_DEFAULT,,0,0,0,,Yûji, vise un peu ça !
+Dialogue: 0,00:00:58.05,00:00:59.30,TR_DEFAULT,,0,0,0,,Je voudrais un morceau.
+Dialogue: 0,00:00:59.76,00:01:01.14,TR_DEFAULT,,0,0,0,,Oui, tout de suite.
+Dialogue: 0,00:01:02.56,00:01:04.98,TR_DEFAULT,,0,0,0,,Je peux aussi vous prendre tout ça ?
+Dialogue: 0,00:01:11.69,00:01:13.07,TR_DEFAULT,,0,0,0,,C'est un délice !
+Dialogue: 0,00:01:13.23,00:01:15.07,TR_DEFAULT,,0,0,0,,Je me régale.
+Dialogue: 0,00:01:15.24,00:01:17.36,TR_DEFAULT,,0,0,0,,C'est succulent.
+Dialogue: 0,00:01:17.53,00:01:19.28,TR_DEFAULT,,0,0,0,,Oui, un vrai festin.
+Dialogue: 0,00:01:24.20,00:01:24.91,TR_DEFAULT,,0,0,0,,Une cloche ?
+Dialogue: 0,00:01:25.29,00:01:28.04,TR_DEFAULT,,0,0,0,,Une messe spéciale\Nest donnée à l'église.
+Dialogue: 0,00:01:28.33,00:01:31.34,TR_DEFAULT,,0,0,0,,Un grand prêtre\Nest venu exprès de la capitale.
+Dialogue: 0,00:01:35.26,00:01:36.34,TR_DEFAULT,,0,0,0,,La capitale...
+Dialogue: 0,00:01:40.22,00:01:42.43,TR_DEFAULT,,0,0,0,,AUTEUR DU ROMAN :\NSHOTÔ SHINKÔ
+Dialogue: 0,00:01:42.60,00:01:45.06,TR_DEFAULT,,0,0,0,,CHARA DESIGN DU ROMAN :\NHÛKA KAZABANA
+Dialogue: 0,00:01:47.64,00:01:52.07,TR_DEFAULT,,0,0,0,,PLANNING : KAZUNARI ÔKUMA\NKUNIHIRO KITAMURA
+Dialogue: 0,00:01:54.90,00:02:02.62,TR_DEFAULT,,0,0,0,,MY ISEKAI LIFE
+Dialogue: 0,00:02:04.91,00:02:07.12,TR_DEFAULT,,0,0,0,,COMPOSITION DE LA SÉRIE :\NNAOHIRO FUKUSHIMA
+Dialogue: 0,00:02:07.29,00:02:09.08,TR_DEFAULT,,0,0,0,,CHARA DESIGN :\NKEISUKE KOJIMA, NORIHITO SAITAMA
+Dialogue: 0,00:02:14.63,00:02:16.84,TR_DEFAULT,,0,0,0,,ASSISTANT RÉALISATEUR : KIYOTAKA SUZUKI\NCHEFFE DÉCORATRICE : AIKO TAIRA
+Dialogue: 0,00:02:17.01,00:02:19.34,TR_DEFAULT,,0,0,0,,DIRECTEUR ARTISTIQUE : RYÔ TANAKA\NEFFETS SONORES : TOSHIYA WADA
+Dialogue: 0,00:02:22.51,00:02:24.47,TR_DEFAULT,,0,0,0,,BANDE ORIGINALE : GIN\NPRODUCTEUR MUSICAL : RYÔTA ÔTSUKA
+Dialogue: 0,00:02:27.23,00:02:31.15,TR_DEFAULT,,0,0,0,,GÉNÉRIQUE D'OUVERTURE :\N"MUJIKAKU NO TENSAI", NON STOP RABBIT
+Dialogue: 0,00:02:37.94,00:02:40.95,TR_DEFAULT,,0,0,0,,PRODUCTEURS :\NTAKANORI MATSUOKA, NORIYUKI AKITA
+Dialogue: 0,00:02:49.12,00:02:52.38,TR_DEFAULT,,0,0,0,,STUDIO D'ANIMATION :\NREVOROOT
+Dialogue: 0,00:02:54.50,00:02:59.05,TR_DEFAULT,,0,0,0,,RÉALISATEUR : KEISUKE KOJIMA
+Dialogue: 0,00:03:04.89,00:03:07.81,TR_DEFAULT,,0,0,0,,UNE PRODUCTION DU COMITÉ\NDE MY ISEKAI LIFE
+Dialogue: 0,00:03:13.81,00:03:15.02,TR_DEFAULT,,0,0,0,,Votre classe est...
+Dialogue: 0,00:03:15.40,00:03:17.07,TR_DEFAULT,,0,0,0,,dresseur ?
+Dialogue: 0,00:03:18.40,00:03:21.15,TR_DEFAULT,,0,0,0,,Ça pose problème,\Npour m'enregistrer ici ?
+Dialogue: 0,00:03:21.91,00:03:23.78,TR_DEFAULT,,0,0,0,,Je le crains, malheureusement.
+Dialogue: 0,00:03:34.42,00:03:36.04,TR_DEFAULT,,0,0,0,,Ah, c'est bon.
+Dialogue: 0,00:03:37.17,00:03:40.97,TR_DEFAULT,,0,0,0,,Avec un titre d'éclaireur,\Nvous êtes admis d'office.
+Dialogue: 0,00:03:41.17,00:03:45.18,TR_DEFAULT,,0,0,0,,Vu que vous augmentez de 80 %\Nles chances de survie d'un groupe,
+Dialogue: 0,00:03:45.35,00:03:46.55,TR_DEFAULT,,0,0,0,,vous nous serez utile.
+Dialogue: 0,00:03:47.97,00:03:50.06,TR_DEFAULT,,0,0,0,,Voilà, vous êtes enregistré.
+Dialogue: 0,00:03:51.10,00:03:51.98,TR_DEFAULT,,0,0,0,,Merci.
+Dialogue: 0,00:03:55.40,00:03:58.23,TR_DEFAULT,,0,0,0,,Si vous voulez,\Nj'ai des quêtes à vous proposer.
+Dialogue: 0,00:04:02.86,00:04:05.20,TR_DEFAULT,,0,0,0,,C'est toi qui cherches un groupe ?
+Dialogue: 0,00:04:06.95,00:04:08.83,TR_DEFAULT,,0,0,0,,Je suis Lodis, un épéiste.
+Dialogue: 0,00:04:09.49,00:04:11.08,TR_DEFAULT,,0,0,0,,Tina, une archère.
+Dialogue: 0,00:04:11.83,00:04:13.71,TR_DEFAULT,,0,0,0,,Et moi, Lisa, une lancière.
+Dialogue: 0,00:04:17.08,00:04:18.58,TR_DEFAULT,,0,0,0,,Ta tête ne me dit rien.
+Dialogue: 0,00:04:19.30,00:04:20.08,TR_DEFAULT,,0,0,0,,Moi, c'est Yûji.
+Dialogue: 0,00:04:20.67,00:04:24.47,TR_DEFAULT,,0,0,0,,Je suis un dresseur,\Net je n'ai aucune expérience de groupe.
+Dialogue: 0,00:04:25.89,00:04:29.35,TR_DEFAULT,,0,0,0,,Un dresseur ?\NDonc tu ne sais pas combattre.
+Dialogue: 0,00:04:29.76,00:04:31.73,TR_DEFAULT,,0,0,0,,Tu ne seras qu'un poids pour nous.
+Dialogue: 0,00:04:32.23,00:04:34.35,TR_DEFAULT,,0,0,0,,{\i1}Ma foi, il fallait s'y attendre.{\i0}
+Dialogue: 0,00:04:34.77,00:04:37.15,TR_DEFAULT,,0,0,0,,Mais c'est un éclaireur, non ?
+Dialogue: 0,00:04:37.48,00:04:39.40,TR_DEFAULT,,0,0,0,,Vu qu'on part en exploration,
+Dialogue: 0,00:04:39.57,00:04:42.94,TR_DEFAULT,,0,0,0,,mieux vaut éviter les monstres\Nque leur rentrer dedans.
+Dialogue: 0,00:04:43.36,00:04:44.36,TR_DEFAULT,,0,0,0,,Quitte à choisir,
+Dialogue: 0,00:04:44.65,00:04:48.12,TR_DEFAULT,,0,0,0,,je préfère encore\Nt'exclure du groupe, Lodis.
+Dialogue: 0,00:04:48.87,00:04:50.74,TR_DEFAULT,,0,0,0,,Tu as une mauvaise réputation.
+Dialogue: 0,00:04:51.04,00:04:54.00,TR_DEFAULT,,0,0,0,,Oui, il paraît\Nque ses anciens compagnons ont fui
+Dialogue: 0,00:04:54.16,00:04:55.62,TR_DEFAULT,,0,0,0,,sans laisser de trace.
+Dialogue: 0,00:04:56.04,00:04:58.42,TR_DEFAULT,,0,0,0,,Hé, ne gobez pas tout ce qu'on raconte.
+Dialogue: 0,00:04:58.79,00:05:00.13,TR_DEFAULT,,0,0,0,,Vous voulez m'écarter ?
+Dialogue: 0,00:05:00.75,00:05:02.05,TR_DEFAULT,,0,0,0,,En même temps...
+Dialogue: 0,00:05:02.21,00:05:03.63,TR_DEFAULT,,0,0,0,,Tu l'as bien cherché.
+Dialogue: 0,00:05:04.05,00:05:06.26,TR_DEFAULT,,0,0,0,,Quoi ?\NDites pas de bêtises.
+Dialogue: 0,00:05:06.68,00:05:07.80,TR_DEFAULT,,0,0,0,,{\i1}J'ai déjà vu ça.{\i0}
+Dialogue: 0,00:05:11.22,00:05:15.89,TR_DEFAULT,,0,0,0,,Si tu acceptes que Yûji participe,\Non te conservera dans le groupe.
+Dialogue: 0,00:05:16.27,00:05:17.19,TR_DEFAULT,,0,0,0,,Ça te va ?
+Dialogue: 0,00:05:17.35,00:05:18.40,TR_DEFAULT,,0,0,0,,Je valide !
+Dialogue: 0,00:05:25.95,00:05:27.91,TR_DEFAULT,,0,0,0,,{\i1}Repassons la quête en revue.{\i0}
+Dialogue: 0,00:05:28.91,00:05:31.91,TR_DEFAULT,,0,0,0,,{\i1}On nous demande\Nde localiser un Dragon de terre.{\i0}
+Dialogue: 0,00:05:32.45,00:05:35.66,TR_DEFAULT,,0,0,0,,{\i1}On se passera de l'éliminer\Nvu qu'il est puissant,{\i0}
+Dialogue: 0,00:05:35.87,00:05:37.46,TR_DEFAULT,,0,0,0,,{\i1}mais restons vigilants.{\i0}
+Dialogue: 0,00:05:38.54,00:05:39.88,TR_DEFAULT,,0,0,0,,{\i1}Lodis sera en tête,{\i0}
+Dialogue: 0,00:05:40.59,00:05:41.88,TR_DEFAULT,,0,0,0,,{\i1}moi, au milieu,{\i0}
+Dialogue: 0,00:05:42.42,00:05:44.34,TR_DEFAULT,,0,0,0,,{\i1}et Lisa, derrière.{\i0}
+Dialogue: 0,00:05:45.51,00:05:47.01,TR_DEFAULT,,0,0,0,,{\i1}Je fais quoi, moi ?{\i0}
+Dialogue: 0,00:05:47.18,00:05:49.80,TR_DEFAULT,,0,0,0,,{\i1}Reste à l'affût de monstres en approche.{\i0}
+Dialogue: 0,00:05:50.60,00:05:52.97,TR_DEFAULT,,0,0,0,,{\i1}Je n'aurai pas besoin de combattre.{\i0}
+Dialogue: 0,00:05:54.18,00:05:55.68,TR_DEFAULT,,0,0,0,,{\i1}Proud wolf, du nouveau ?{\i0}
+Dialogue: 0,00:06:01.94,00:06:03.32,TR_DEFAULT,,0,0,0,,Rien à signaler.
+Dialogue: 0,00:06:03.53,00:06:05.61,TR_DEFAULT,,0,0,0,,On a un œil sur tout !
+Dialogue: 0,00:06:05.78,00:06:08.20,TR_DEFAULT,,0,0,0,,Laisse-nous nous occuper des monstres.
+Dialogue: 0,00:06:08.61,00:06:11.24,TR_DEFAULT,,0,0,0,,Yûji !\NSi on en trouve, on se les fait ?
+Dialogue: 0,00:06:11.45,00:06:13.37,TR_DEFAULT,,0,0,0,,{\i1}Non, n'engagez pas le combat.{\i0}
+Dialogue: 0,00:06:13.58,00:06:15.20,TR_DEFAULT,,0,0,0,,Ah bon ? Pourquoi ?
+Dialogue: 0,00:06:15.66,00:06:17.50,TR_DEFAULT,,0,0,0,,Ce serait plus simple.
+Dialogue: 0,00:06:18.16,00:06:20.04,TR_DEFAULT,,0,0,0,,{\i1}Continuez de fouiller la zone.{\i0}
+Dialogue: 0,00:06:20.63,00:06:21.79,TR_DEFAULT,,0,0,0,,Entendu !
+Dialogue: 0,00:06:24.50,00:06:26.67,TR_DEFAULT,,0,0,0,,Yûji, ennemis en vue.
+Dialogue: 0,00:06:27.67,00:06:31.47,TR_DEFAULT,,0,0,0,,Il y a cinq loups,\Ndeux kilomètres droit devant.
+Dialogue: 0,00:06:33.30,00:06:36.22,TR_DEFAULT,,0,0,0,,Deux kilomètres ?\NComment tu peux les voir ?
+Dialogue: 0,00:06:36.73,00:06:38.85,TR_DEFAULT,,0,0,0,,Tu les repères de si loin ?
+Dialogue: 0,00:06:39.44,00:06:40.23,TR_DEFAULT,,0,0,0,,Oui.
+Dialogue: 0,00:06:42.06,00:06:43.23,TR_DEFAULT,,0,0,0,,Intéressant...
+Dialogue: 0,00:06:43.73,00:06:45.28,TR_DEFAULT,,0,0,0,,Allons vérifier ça.
+Dialogue: 0,00:06:46.65,00:06:47.49,TR_DEFAULT,,0,0,0,,Attends !
+Dialogue: 0,00:06:58.04,00:06:59.66,TR_DEFAULT,,0,0,0,,Tu te débrouilles, Yûji.
+Dialogue: 0,00:07:00.54,00:07:02.58,TR_DEFAULT,,0,0,0,,Ils sont vraiment là, mais...
+Dialogue: 0,00:07:03.04,00:07:04.59,TR_DEFAULT,,0,0,0,,... il en manque un.
+Dialogue: 0,00:07:05.75,00:07:06.59,TR_DEFAULT,,0,0,0,,Là-haut.
+Dialogue: 0,00:07:18.18,00:07:19.10,TR_DEFAULT,,0,0,0,,Je m'en charge.
+Dialogue: 0,00:07:35.16,00:07:36.03,TR_DEFAULT,,0,0,0,,{\i1}Il est balèze.{\i0}
+Dialogue: 0,00:07:36.66,00:07:37.99,TR_DEFAULT,,0,0,0,,Pas mal, Lodis.
+Dialogue: 0,00:07:38.16,00:07:39.62,TR_DEFAULT,,0,0,0,,Tu nous as sauvés, merci.
+Dialogue: 0,00:07:41.21,00:07:42.33,TR_DEFAULT,,0,0,0,,Reprenons la route.
+Dialogue: 0,00:07:43.04,00:07:44.50,TR_DEFAULT,,0,0,0,,Je t'avais mal jugé, Yûji.
+Dialogue: 0,00:07:45.46,00:07:46.13,TR_DEFAULT,,0,0,0,,Pas grave.
+Dialogue: 0,00:07:48.42,00:07:51.05,TR_DEFAULT,,0,0,0,,On aurait pu les vaincre facilement.
+Dialogue: 0,00:07:51.22,00:07:54.30,TR_DEFAULT,,0,0,0,,{\i1}Oui, mais je voulais\Ntester leurs capacités.{\i0}
+Dialogue: 0,00:07:55.35,00:07:57.76,TR_DEFAULT,,0,0,0,,Dépêche-toi, Yûji !
+Dialogue: 0,00:08:02.39,00:08:04.90,TR_DEFAULT,,0,0,0,,Une journée n'aura donc pas suffi.
+Dialogue: 0,00:08:05.52,00:08:07.40,TR_DEFAULT,,0,0,0,,Pourquoi s'éloigner du chemin ?
+Dialogue: 0,00:08:07.82,00:08:11.15,TR_DEFAULT,,0,0,0,,Les petits groupes\Ncampent toujours un peu à l'écart.
+Dialogue: 0,00:08:11.49,00:08:12.90,TR_DEFAULT,,0,0,0,,Sinon, gare aux bandits.
+Dialogue: 0,00:08:13.66,00:08:14.57,TR_DEFAULT,,0,0,0,,{\i1}Pas bête.{\i0}
+Dialogue: 0,00:08:21.12,00:08:22.66,TR_DEFAULT,,0,0,0,,Vous vous entendez bien.
+Dialogue: 0,00:08:23.42,00:08:25.54,TR_DEFAULT,,0,0,0,,Oui, c'est un précieux camarade.
+Dialogue: 0,00:08:26.96,00:08:30.96,TR_DEFAULT,,0,0,0,,- Nous aussi, on est...\N- ... ses précieux camarades !
+Dialogue: 0,00:08:32.84,00:08:36.42,TR_DEFAULT,,0,0,0,,Au fait, où as-tu appris\Nta capacité d'éclaireur ?
+Dialogue: 0,00:08:36.92,00:08:39.17,TR_DEFAULT,,0,0,0,,Quelqu'un te l'a enseignée ?
+Dialogue: 0,00:08:39.51,00:08:40.92,TR_DEFAULT,,0,0,0,,Ah, en fait...
+Dialogue: 0,00:08:44.98,00:08:46.77,TR_DEFAULT,,0,0,0,,Elle est apparue comme ça.
+Dialogue: 0,00:08:48.11,00:08:49.77,TR_DEFAULT,,0,0,0,,C'est possible, ça ?
+Dialogue: 0,00:08:49.94,00:08:52.19,TR_DEFAULT,,0,0,0,,Un grand aventurier a dû te former.
+Dialogue: 0,00:08:52.36,00:08:53.07,TR_DEFAULT,,0,0,0,,Non...
+Dialogue: 0,00:08:53.36,00:08:55.45,TR_DEFAULT,,0,0,0,,Allez, dis-nous la vérité.
+Dialogue: 0,00:08:55.82,00:08:57.07,TR_DEFAULT,,0,0,0,,On veut savoir.
+Dialogue: 0,00:08:57.57,00:08:58.74,TR_DEFAULT,,0,0,0,,{\i1}Mince, alors.{\i0}
+Dialogue: 0,00:09:01.95,00:09:04.46,TR_DEFAULT,,0,0,0,,Bon, il est l'heure de dormir.
+Dialogue: 0,00:09:06.71,00:09:10.59,TR_DEFAULT,,0,0,0,,Tina montera la garde en premier,\Nmoi en deuxième,
+Dialogue: 0,00:09:11.25,00:09:14.63,TR_DEFAULT,,0,0,0,,Yûji en troisième,\Net Lisa en dernier, d'accord ?
+Dialogue: 0,00:09:15.30,00:09:16.09,TR_DEFAULT,,0,0,0,,Pourquoi ?
+Dialogue: 0,00:09:17.09,00:09:19.80,TR_DEFAULT,,0,0,0,,Les deuxième et troisième tours de garde
+Dialogue: 0,00:09:19.97,00:09:21.81,TR_DEFAULT,,0,0,0,,sont ceux qui épuisent le plus.
+Dialogue: 0,00:09:22.18,00:09:26.10,TR_DEFAULT,,0,0,0,,Mieux vaut que ce soit moi,\Net toi, vu que tu ne combats pas.
+Dialogue: 0,00:09:26.60,00:09:29.48,TR_DEFAULT,,0,0,0,,{\i1}Lodis est plus courtois\Nqu'il en a l'air.{\i0}
+Dialogue: 0,00:09:30.52,00:09:32.44,TR_DEFAULT,,0,0,0,,Partons là-dessus, alors.
+Dialogue: 0,00:09:32.65,00:09:34.86,TR_DEFAULT,,0,0,0,,Bonne nuit, tout le monde !
+Dialogue: 0,00:09:49.42,00:09:52.88,TR_DEFAULT,,0,0,0,,{\i1}Où suis-je ?\NJe faisais des heures sup au boulot...{\i0}
+Dialogue: 0,00:09:53.05,00:09:54.30,TR_DEFAULT,,0,0,0,,YÛJI\NCLASSE : DRESSEUR
+Dialogue: 0,00:09:54.46,00:09:57.47,TR_DEFAULT,,0,0,0,,{\i1}Mince,\Nj'ai passé trop de temps devant l'écran.{\i0}
+Dialogue: 0,00:09:58.72,00:10:02.01,TR_DEFAULT,,0,0,0,,Compétences, attributs, HP...
+Dialogue: 0,00:10:02.35,00:10:04.06,TR_DEFAULT,,0,0,0,,Ce sont les stats d'un jeu ?
+Dialogue: 0,00:10:04.72,00:10:07.48,TR_DEFAULT,,0,0,0,,Dresseur ?\NDe monstres, j'imagine.
+Dialogue: 0,00:10:08.02,00:10:10.40,TR_DEFAULT,,0,0,0,,Hélas, je ne suis\Nqu'un salarié exploité.
+Dialogue: 0,00:10:11.86,00:10:13.32,TR_DEFAULT,,0,0,0,,Bizarre, comme texture.
+Dialogue: 0,00:10:13.48,00:10:14.69,TR_DEFAULT,,0,0,0,,LE SLIME A ÉTÉ DOMPTÉ
+Dialogue: 0,00:10:14.86,00:10:15.90,TR_DEFAULT,,0,0,0,,Le slime ?
+Dialogue: 0,00:10:17.28,00:10:19.61,TR_DEFAULT,,0,0,0,,Ça veut dire qu'on forme une équipe ?
+Dialogue: 0,00:10:38.43,00:10:40.51,TR_DEFAULT,,0,0,0,,{\i1}Il veut me mener quelque part ?{\i0}
+Dialogue: 0,00:11:00.66,00:11:03.99,TR_DEFAULT,,0,0,0,,{\i1}On dirait\Nqu'un gros bouquineur vivait ici.{\i0}
+Dialogue: 0,00:11:13.29,00:11:13.96,TR_DEFAULT,,0,0,0,,GRIMOIRE
+Dialogue: 0,00:11:14.13,00:11:16.34,TR_DEFAULT,,0,0,0,,{\i1}L'Anéantissement des dieux...{\i0}
+Dialogue: 0,00:11:16.50,00:11:19.30,TR_DEFAULT,,0,0,0,,Son auteur\Navait un peu trop d'imagination.
+Dialogue: 0,00:11:20.26,00:11:21.22,TR_DEFAULT,,0,0,0,,MAGIES APPRISES
+Dialogue: 0,00:11:21.72,00:11:22.59,TR_DEFAULT,,0,0,0,,{\i1}Des magies ?{\i0}
+Dialogue: 0,00:11:23.09,00:11:26.51,TR_DEFAULT,,0,0,0,,{\i1}Juste en ouvrant ce livre ?\NC'est plutôt pratique.{\i0}
+Dialogue: 0,00:11:27.18,00:11:29.85,TR_DEFAULT,,0,0,0,,{\i1}Ç'a même augmenté mes HP et MP max.{\i0}
+Dialogue: 0,00:11:39.32,00:11:41.99,TR_DEFAULT,,0,0,0,,Vous voulez que je vous dompte ?
+Dialogue: 0,00:11:45.16,00:11:47.16,TR_DEFAULT,,0,0,0,,LES SLIMES ONT ÉTÉ DOMPTÉS
+Dialogue: 0,00:11:47.54,00:11:48.45,TR_DEFAULT,,0,0,0,,Tiens ?
+Dialogue: 0,00:12:01.59,00:12:04.93,TR_DEFAULT,,0,0,0,,{\i1}J'ai pu apprendre ces sorts\Nà travers les slimes.{\i0}
+Dialogue: 0,00:12:05.85,00:12:07.68,TR_DEFAULT,,0,0,0,,CLASSES : DRESSEUR...
+Dialogue: 0,00:12:07.89,00:12:09.56,TR_DEFAULT,,0,0,0,,ÉRUDIT
+Dialogue: 0,00:12:09.97,00:12:11.02,TR_DEFAULT,,0,0,0,,{\i1}Érudit ?{\i0}
+Dialogue: 0,00:12:12.52,00:12:13.31,TR_DEFAULT,,0,0,0,,Yûji.
+Dialogue: 0,00:12:13.48,00:12:16.11,TR_DEFAULT,,0,0,0,,- Yûji ! Yûji !\N- Vous pouvez parler ?
+Dialogue: 0,00:12:25.41,00:12:26.12,TR_DEFAULT,,0,0,0,,{\i1}Yûji !{\i0}
+Dialogue: 0,00:12:27.87,00:12:29.91,TR_DEFAULT,,0,0,0,,Une semaine a passé depuis...
+Dialogue: 0,00:12:30.29,00:12:31.96,TR_DEFAULT,,0,0,0,,{\i1}Yûji, tu m'entends ?{\i0}
+Dialogue: 0,00:12:32.12,00:12:32.96,TR_DEFAULT,,0,0,0,,Un problème ?
+Dialogue: 0,00:12:33.75,00:12:36.71,TR_DEFAULT,,0,0,0,,Lodis a disparu\Npendant son tour de garde.
+Dialogue: 0,00:12:39.67,00:12:40.92,TR_DEFAULT,,0,0,0,,{\i1}Il s'est enfui ?{\i0}
+Dialogue: 0,00:12:41.97,00:12:43.63,TR_DEFAULT,,0,0,0,,Non, je crois pas.
+Dialogue: 0,00:12:44.72,00:12:47.05,TR_DEFAULT,,0,0,0,,{\i1}Ça cache sans doute quelque chose.{\i0}
+Dialogue: 0,00:12:47.22,00:12:48.56,TR_DEFAULT,,0,0,0,,Yûji !
+Dialogue: 0,00:12:49.18,00:12:51.93,TR_DEFAULT,,0,0,0,,Tina et Lisa sont introuvables !
+Dialogue: 0,00:13:01.99,00:13:03.32,TR_DEFAULT,,0,0,0,,Il nous a repérés ?
+Dialogue: 0,00:13:03.57,00:13:04.74,TR_DEFAULT,,0,0,0,,Bonne question...
+Dialogue: 0,00:13:06.95,00:13:08.24,TR_DEFAULT,,0,0,0,,Ce serait pas elles ?
+Dialogue: 0,00:13:09.28,00:13:11.20,TR_DEFAULT,,0,0,0,,Tu avais vu juste, Tina.
+Dialogue: 0,00:13:11.58,00:13:14.58,TR_DEFAULT,,0,0,0,,L'ordre pour monter la garde\Nme paraissait louche.
+Dialogue: 0,00:13:15.37,00:13:17.58,TR_DEFAULT,,0,0,0,,Il n'est pas du genre bienveillant.
+Dialogue: 0,00:13:18.46,00:13:20.42,TR_DEFAULT,,0,0,0,,On demande de l'aide à Yûji ?
+Dialogue: 0,00:13:20.88,00:13:22.88,TR_DEFAULT,,0,0,0,,Ce n'est pas un combattant.
+Dialogue: 0,00:13:23.21,00:13:25.38,TR_DEFAULT,,0,0,0,,{\i1}On va devoir s'en tirer seules.{\i0}
+Dialogue: 0,00:13:53.75,00:13:54.50,TR_DEFAULT,,0,0,0,,Trouvé !
+Dialogue: 0,00:14:17.10,00:14:19.10,TR_DEFAULT,,0,0,0,,Il a failli me transpercer !
+Dialogue: 0,00:14:19.35,00:14:22.11,TR_DEFAULT,,0,0,0,,Vous lui avez échappé\Ngrâce au Camouflage.
+Dialogue: 0,00:14:54.31,00:14:55.56,TR_DEFAULT,,0,0,0,,C'est quoi, ça ?
+Dialogue: 0,00:15:10.16,00:15:12.78,TR_DEFAULT,,0,0,0,,Tu as apporté quoi de bon, Lodis ?
+Dialogue: 0,00:15:13.58,00:15:15.83,TR_DEFAULT,,0,0,0,,Deux femmes qu'on peut vendre cher
+Dialogue: 0,00:15:16.16,00:15:17.83,TR_DEFAULT,,0,0,0,,{\i1}et un homme.{\i0}
+Dialogue: 0,00:15:18.58,00:15:21.88,TR_DEFAULT,,0,0,0,,Je dirai qu'ils ont aussi fui\Nen pleine quête.
+Dialogue: 0,00:15:22.46,00:15:24.42,TR_DEFAULT,,0,0,0,,On peut abandonner l'homme ici.
+Dialogue: 0,00:15:24.75,00:15:26.55,TR_DEFAULT,,0,0,0,,Les monstres le boufferont.
+Dialogue: 0,00:15:27.34,00:15:28.21,TR_DEFAULT,,0,0,0,,{\i1}Je vois...{\i0}
+Dialogue: 0,00:15:29.05,00:15:31.72,TR_DEFAULT,,0,0,0,,{\i1}Voilà pourquoi\Nses compagnons ont disparu.{\i0}
+Dialogue: 0,00:15:32.22,00:15:33.47,TR_DEFAULT,,0,0,0,,D'ailleurs,
+Dialogue: 0,00:15:33.97,00:15:36.35,TR_DEFAULT,,0,0,0,,je crois que les femmes m'ont suivi.
+Dialogue: 0,00:15:37.22,00:15:39.52,TR_DEFAULT,,0,0,0,,On les capturera à l'aide des pièges.
+Dialogue: 0,00:15:42.23,00:15:43.52,TR_DEFAULT,,0,0,0,,OK, mais magnez-vous.
+Dialogue: 0,00:15:45.23,00:15:47.23,TR_DEFAULT,,0,0,0,,Ça se brouille, là-haut...
+Dialogue: 0,00:15:47.90,00:15:50.53,TR_DEFAULT,,0,0,0,,"La lune bleue apporte\Nson lot de malheurs."
+Dialogue: 0,00:15:51.45,00:15:53.45,TR_DEFAULT,,0,0,0,,D'après la Lune azur du Salut,
+Dialogue: 0,00:15:53.62,00:15:57.79,TR_DEFAULT,,0,0,0,,un drame se prépare\Nquand la Lune vire au bleu.
+Dialogue: 0,00:15:59.20,00:16:00.37,TR_DEFAULT,,0,0,0,,N'importe quoi.
+Dialogue: 0,00:16:03.08,00:16:04.00,TR_DEFAULT,,0,0,0,,Pardon...
+Dialogue: 0,00:16:06.00,00:16:08.38,TR_DEFAULT,,0,0,0,,Cette histoire tient vraiment debout ?
+Dialogue: 0,00:16:08.92,00:16:12.13,TR_DEFAULT,,0,0,0,,Elle effraie une secte\Nqui sème des monstres partout.
+Dialogue: 0,00:16:12.93,00:16:15.51,TR_DEFAULT,,0,0,0,,Mieux vaut prévenir que guérir.
+Dialogue: 0,00:16:18.01,00:16:18.89,TR_DEFAULT,,0,0,0,,On fait quoi ?
+Dialogue: 0,00:16:19.27,00:16:21.18,TR_DEFAULT,,0,0,0,,Ne fonçons pas tête baissée.
+Dialogue: 0,00:16:21.69,00:16:23.44,TR_DEFAULT,,0,0,0,,Élaborons un plan au camp.
+Dialogue: 0,00:16:28.27,00:16:30.74,TR_DEFAULT,,0,0,0,,Bingo.\NÇa vient des buissons à l'ouest.
+Dialogue: 0,00:16:40.95,00:16:42.71,TR_DEFAULT,,0,0,0,,On va devoir combattre.
+Dialogue: 0,00:16:43.58,00:16:44.12,TR_DEFAULT,,0,0,0,,Oui.
+Dialogue: 0,00:16:52.84,00:16:53.84,TR_DEFAULT,,0,0,0,,Un monstre ?
+Dialogue: 0,00:16:54.22,00:16:55.64,TR_DEFAULT,,0,0,0,,C'était lui, ce bruit ?
+Dialogue: 0,00:16:56.51,00:16:58.64,TR_DEFAULT,,0,0,0,,- Il est flippant.\N- On se le fait ?
+Dialogue: 0,00:17:01.22,00:17:04.84,TR_DEFAULT,,0,0,0,,Je n'ai jamais vu un tel monstre.\NLaissez-le.
+Dialogue: 0,00:17:12.49,00:17:14.60,TR_DEFAULT,,0,0,0,,{\i1}C'était parfait, Proud wolf.{\i0}
+Dialogue: 0,00:17:15.28,00:17:17.11,TR_DEFAULT,,0,0,0,,PERMAGEL MAUDIT
+Dialogue: 0,00:17:17.53,00:17:18.61,TR_DEFAULT,,0,0,0,,{\i1}Ça semble puissant.{\i0}
+Dialogue: 0,00:17:19.41,00:17:21.66,TR_DEFAULT,,0,0,0,,{\i1}Il me faudrait un sort plus faible...{\i0}
+Dialogue: 0,00:17:22.25,00:17:24.11,TR_DEFAULT,,0,0,0,,{\i1}Étendue de gel : Moyen.{\i0}
+Dialogue: 0,00:17:24.79,00:17:25.82,TR_DEFAULT,,0,0,0,,{\i1}Ça fera le taf.{\i0}
+Dialogue: 0,00:17:26.32,00:17:29.00,TR_DEFAULT,,0,0,0,,{\i1}C'est un nom de sort simple et clair.{\i0}
+Dialogue: 0,00:17:29.46,00:17:30.21,TR_DEFAULT,,0,0,0,,{\i1}Les slimes !{\i0}
+Dialogue: 0,00:17:30.38,00:17:32.51,TR_DEFAULT,,0,0,0,,- Oui !\N- Compte sur nous.
+Dialogue: 0,00:17:37.18,00:17:39.51,TR_DEFAULT,,0,0,0,,- Mais c'est...\N- Les slimes de Yûji ?
+Dialogue: 0,00:17:44.02,00:17:45.23,TR_DEFAULT,,0,0,0,,{\i1}Transmission...{\i0}
+Dialogue: 0,00:17:45.81,00:17:47.35,TR_DEFAULT,,0,0,0,,{\i1}Étendue de gel : Moyen !{\i0}
+Dialogue: 0,00:17:55.70,00:17:58.49,TR_DEFAULT,,0,0,0,,{\i1}Tiens ?\NC'est plus puissant que prévu.{\i0}
+Dialogue: 0,00:18:09.71,00:18:11.80,TR_DEFAULT,,0,0,0,,Les slimes ont lancé ce sort ?
+Dialogue: 0,00:18:12.21,00:18:13.71,TR_DEFAULT,,0,0,0,,Oui, en effet.
+Dialogue: 0,00:18:15.09,00:18:16.55,TR_DEFAULT,,0,0,0,,{\i1}Inutile d'en rajouter.{\i0}
+Dialogue: 0,00:18:19.72,00:18:20.97,TR_DEFAULT,,0,0,0,,C'est Gelios, non ?
+Dialogue: 0,00:18:21.76,00:18:23.06,TR_DEFAULT,,0,0,0,,Mais oui !
+Dialogue: 0,00:18:23.31,00:18:24.47,TR_DEFAULT,,0,0,0,,Un de vos amis ?
+Dialogue: 0,00:18:24.64,00:18:26.10,TR_DEFAULT,,0,0,0,,Sûrement pas !
+Dialogue: 0,00:18:26.27,00:18:28.31,TR_DEFAULT,,0,0,0,,C'est un bandit notoire du coin.
+Dialogue: 0,00:18:28.77,00:18:30.11,TR_DEFAULT,,0,0,0,,Tu as vu son affiche !
+Dialogue: 0,00:18:31.40,00:18:32.44,TR_DEFAULT,,0,0,0,,Ah oui.
+Dialogue: 0,00:18:33.07,00:18:34.82,TR_DEFAULT,,0,0,0,,Tu ne l'avais pas reconnu...
+Dialogue: 0,00:18:40.82,00:18:44.74,TR_DEFAULT,,0,0,0,,Tu avais donc d'autres capacités\Nque celle d'éclaireur, Yûji.
+Dialogue: 0,00:18:45.08,00:18:48.96,TR_DEFAULT,,0,0,0,,Si on avait su,\Non se serait davantage reposé sur toi.
+Dialogue: 0,00:19:02.60,00:19:04.43,TR_DEFAULT,,0,0,0,,{\i1}Je ne préfère franchement pas.{\i0}
+Dialogue: 0,00:19:05.14,00:19:08.23,TR_DEFAULT,,0,0,0,,Tu ne parles pas beaucoup de toi, hein ?
+Dialogue: 0,00:19:08.52,00:19:09.27,TR_DEFAULT,,0,0,0,,Euh...
+Dialogue: 0,00:19:09.94,00:19:11.52,TR_DEFAULT,,0,0,0,,Ce n'est pas un mal.
+Dialogue: 0,00:19:11.94,00:19:13.94,TR_DEFAULT,,0,0,0,,Oui, on est tous différents.
+Dialogue: 0,00:19:16.61,00:19:18.86,TR_DEFAULT,,0,0,0,,Bon, et la quête, dans tout ça ?
+Dialogue: 0,00:19:19.03,00:19:21.87,TR_DEFAULT,,0,0,0,,Eh bien,\Non est désormais en sous-effectif.
+Dialogue: 0,00:19:22.03,00:19:23.62,TR_DEFAULT,,0,0,0,,Rentrons en ville.
+Dialogue: 0,00:19:24.28,00:19:24.95,TR_DEFAULT,,0,0,0,,Attendez.
+Dialogue: 0,00:19:25.62,00:19:29.62,TR_DEFAULT,,0,0,0,,Mes slimes peuvent nous aider\Nà éviter de nombreux monstres.
+Dialogue: 0,00:19:30.21,00:19:31.88,TR_DEFAULT,,0,0,0,,Ça te dérange pas, Yûji ?
+Dialogue: 0,00:19:32.50,00:19:33.96,TR_DEFAULT,,0,0,0,,Non, pas du tout.
+Dialogue: 0,00:19:34.75,00:19:36.55,TR_DEFAULT,,0,0,0,,{\i1}Je peux leur faire confiance.{\i0}
+Dialogue: 0,00:19:38.42,00:19:39.88,TR_DEFAULT,,0,0,0,,On s'y remet, alors.
+Dialogue: 0,00:19:40.05,00:19:42.30,TR_DEFAULT,,0,0,0,,Reposons-nous un peu avant.
+Dialogue: 0,00:19:42.68,00:19:44.85,TR_DEFAULT,,0,0,0,,Cherchons un endroit où camper.
+Dialogue: 0,00:20:05.99,00:20:09.87,TR_DEFAULT,,0,0,0,,J'ai trouvé un coin sympa !\NUne petite fosse bien planquée.
+Dialogue: 0,00:20:13.21,00:20:14.46,TR_DEFAULT,,0,0,0,,{\i1}Allumez un feu.{\i0}
+Dialogue: 0,00:20:14.63,00:20:15.88,TR_DEFAULT,,0,0,0,,{\i1}D'accord !{\i0}
+Dialogue: 0,00:20:18.67,00:20:19.96,TR_DEFAULT,,0,0,0,,{\i1}Posez les tentes.{\i0}
+Dialogue: 0,00:20:20.13,00:20:22.88,TR_DEFAULT,,0,0,0,,{\i1}Oui !\NC'est comme si c'était fait !{\i0}
+Dialogue: 0,00:20:25.80,00:20:27.06,TR_DEFAULT,,0,0,0,,{\i1}Trois, ça suffira ?{\i0}
+Dialogue: 0,00:20:27.22,00:20:28.60,TR_DEFAULT,,0,0,0,,{\i1}Écartez-les plus.{\i0}
+Dialogue: 0,00:20:28.77,00:20:30.02,TR_DEFAULT,,0,0,0,,{\i1}Comme tu voudras.{\i0}
+Dialogue: 0,00:20:30.31,00:20:32.14,TR_DEFAULT,,0,0,0,,{\i1}Sortez les restes de la veille.{\i0}
+Dialogue: 0,00:20:32.31,00:20:33.69,TR_DEFAULT,,0,0,0,,{\i1}Oui, chef !{\i0}
+Dialogue: 0,00:20:34.02,00:20:36.48,TR_DEFAULT,,0,0,0,,{\i1}Proud wolf, monte la garde en premier.{\i0}
+Dialogue: 0,00:20:36.65,00:20:37.82,TR_DEFAULT,,0,0,0,,{\i1}À vos ordres !{\i0}
+Dialogue: 0,00:20:39.98,00:20:41.57,TR_DEFAULT,,0,0,0,,Le campement est installé.
+Dialogue: 0,00:20:44.36,00:20:45.74,TR_DEFAULT,,0,0,0,,Merci.
+Dialogue: 0,00:20:57.42,00:20:59.80,TR_DEFAULT,,0,0,0,,{\i1}"La Lune bleue\Napporte son lot de malheurs."{\i0}
+Dialogue: 0,00:21:00.63,00:21:02.72,TR_DEFAULT,,0,0,0,,{\i1}D'après la Lune azur du Salut,{\i0}
+Dialogue: 0,00:21:02.92,00:21:07.22,TR_DEFAULT,,0,0,0,,{\i1}un drame se prépare\Nquand la Lune vire au bleu.{\i0}
+Dialogue: 0,00:21:08.39,00:21:10.64,TR_DEFAULT,,0,0,0,,{\i1}C'est donc la Lune azur du Salut{\i0}
+Dialogue: 0,00:21:10.81,00:21:12.98,TR_DEFAULT,,0,0,0,,{\i1}qui a lâché des monstres sur Fastan.{\i0}
+Dialogue: 0,00:21:15.85,00:21:17.81,TR_DEFAULT,,0,0,0,,{\i1}Mais de quels malheurs parlait-il ?{\i0}
+Dialogue: 0,00:21:35.00,00:21:39.84,TR_DEFAULT,,0,0,0,,ÉPISODE 2\NJ'AI TENTÉ DE REJOINDRE UN GROUPE
+Dialogue: 0,00:21:42.92,00:21:47.84,TR_DEFAULT,,0,0,0,,YÛJI : CHIAKI KOBAYASHI\NSLIME : HIKARU TÔNO
+Dialogue: 0,00:21:48.30,00:21:53.22,TR_DEFAULT,,0,0,0,,SLIME BORGNE : MAI KANNO\NSLIME SOURCILIER : HARUNA MIKAWA
+Dialogue: 0,00:21:55.14,00:21:59.56,TR_DEFAULT,,0,0,0,,SLIME FEUILLU : ERISA KUON\NSLIME MOUSTACHU : NICHIKA ÔMORI
+Dialogue: 0,00:21:59.90,00:22:04.90,TR_DEFAULT,,0,0,0,,SLIME BALAFRÉ : MIHARU HANAI\NPROUD WOLF : WATARU TAKAGI
+Dialogue: 0,00:22:54.41,00:22:56.96,TR_DEFAULT,,0,0,0,,Repérage : Sarah Courchay\NTraduction : Benjamin Moro
+Dialogue: 0,00:23:01.38,00:23:06.05,TR_DEFAULT,,0,0,0,,Relecture : Thomas Guillemin
+Dialogue: 0,00:23:10.55,00:23:13.18,TR_DEFAULT,,0,0,0,,{\i1}Preview d'un autre monde\Npar les slimes !{\i0}
+Dialogue: 0,00:23:13.51,00:23:15.35,TR_DEFAULT,,0,0,0,,{\i1}C'est nous qui la présentons.{\i0}
+Dialogue: 0,00:23:15.52,00:23:16.56,TR_DEFAULT,,0,0,0,,{\i1}Ça va être fun !{\i0}
+Dialogue: 0,00:23:16.73,00:23:19.60,TR_DEFAULT,,0,0,0,,{\i1}Un sacré monstre\Nva faire son apparition.{\i0}
+Dialogue: 0,00:23:19.77,00:23:20.77,TR_DEFAULT,,0,0,0,,{\i1}C'est-à-dire ?{\i0}
+Dialogue: 0,00:23:20.94,00:23:22.86,TR_DEFAULT,,0,0,0,,{\i1}Les détails sont trop effrayants...{\i0}
+Dialogue: 0,00:23:23.02,00:23:24.11,TR_DEFAULT,,0,0,0,,{\i1}Pourquoi ?{\i0}
+Dialogue: 0,00:23:24.27,00:23:25.15,TR_DEFAULT,,0,0,0,,{\i1}Eh bien,{\i0}
+Dialogue: 0,00:23:25.32,00:23:29.45,TR_DEFAULT,,0,0,0,,{\i1}parce que les slimes\Npossèdent un pouvoir extraordinaire !{\i0}
+Dialogue: 0,00:23:29.61,00:23:32.37,TR_DEFAULT,,0,0,0,,{\i1}- Comment ça ?\N- J'ai compris ! C'est ça...{\i0}
+Dialogue: 0,00:23:32.66,00:23:34.78,TR_DEFAULT,,0,0,0,,{\i1}"En résumé, il était surpuissant".{\i0}
+Dialogue: 0,00:23:34.95,00:23:37.16,TR_DEFAULT,,0,0,0,,{\i1}- Pour de vrai ?\N- Non.{\i0}
